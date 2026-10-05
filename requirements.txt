@@ -1,0 +1,6 @@
+deepagents==0.7.19
+langchain-google-genai==4.4.0
+langchain-tavily==0.2.18
+langgraph==1.2.12
+python-dotenv==1.2.3
+streamlit==1.64.0
